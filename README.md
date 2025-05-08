@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/85986bd3-ca9e-445c-bb69-7893ec1297e6)
 
 # 🖥️ Demo
-[uts-web-client-development.vercel.app](https://vercel.com/riorialdy13-gmailcoms-projects/uts-web-client-development/settings/domains#:~:text=uts%2Dweb%2Dclient%2Ddevelopment.vercel.app)
+https://uts-web-client-development.vercel.app/
 
 # 📝 Deskripsi
 Selamat datang di proyek Portfolio Website! 🎨 Ini adalah website portfolio modern dan responsif yang dibangun menggunakan React dan Tailwind CSS. Website ini sempurna untuk UI/UX designer, web developer, atau profesional kreatif lainnya yang ingin menampilkan karya mereka dengan cara yang elegan dan profesional.
