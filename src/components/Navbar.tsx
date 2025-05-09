@@ -3,7 +3,7 @@ export default function Navbar() {
     <nav className="border-gray-200 bg-[#C7D0D9]">
       <div className="mx-auto flex max-w-screen-xl flex-wrap items-center justify-between p-4">
         <span className="self-center text-lg font-medium whitespace-nowrap">
-          @Riyo Rialdy Urda
+          @Nur Azis
         </span>
         <button
           data-collapse-toggle="navbar-default"
